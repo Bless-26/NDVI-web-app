@@ -23,7 +23,7 @@ Use `###` for smaller headings.
 You can also combine **bold and _italic_**.
 ---
 ## Links and Images
-[This is a link]((https://code.earthengine.google.com/9a4265e707b9b87e2c3b0cc2cfe09060?noload=true))
+[NDVI web app link](https://code.earthengine.google.com/9a4265e707b9b87e2c3b0cc2cfe09060?noload=true)
 ![This is an image](https://via.placeholder.com/150)
 ---
 ## Code Blocks

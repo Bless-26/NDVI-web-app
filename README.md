@@ -1,6 +1,5 @@
 # NDVI-web-app
-# Main Title (H1)
-This is the main heading of your project.
+
 ## Section Title (H2)
 Use `##` for section headings.
 ### Subsection Title (H3)
@@ -24,7 +23,7 @@ Use `###` for smaller headings.
 You can also combine **bold and _italic_**.
 ---
 ## Links and Images
-[This is a link](https://example.com)
+[This is a link]((https://code.earthengine.google.com/9a4265e707b9b87e2c3b0cc2cfe09060?noload=true))
 ![This is an image](https://via.placeholder.com/150)
 ---
 ## Code Blocks
